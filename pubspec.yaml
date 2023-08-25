@@ -1,11 +1,11 @@
 name: skeleton_loader
 description: A Flutter Package which provides a fully customizable loading skeleton for your app,
-version: 2.0.0+5
+version: 2.0.1+6
 homepage: https://github.com/lhamycodes/skeleton_loader
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: '>=2.15.0 <=3.0.6'
+  sdk: '>=2.15.0 <4.0.0'
 
 dependencies:
   flutter:
